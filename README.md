@@ -55,7 +55,7 @@ jf 7000 當務字集希望字集不僅是以過往慣用的「語言」、「常
 
 專業擴充字集方向包含但不限於上表之舉例，持續誠摯邀請各路專家支援！
 
-截至 2025 年三月，目前收集之社群專家建議結果整理如下表，包含「追星應援包」、「化學包」、「生態包」等，歡迎到 [專業擴充包](https://docs.google.com/spreadsheets/d/1ZWKXlznegMBjy0vYsSFatWhTNq0Nt6-_t3j_UyCUm5U/edit?usp=sharing)頁面查看。
+截至 2025 年三月，目前收集之社群專家建議結果整理如下表，包含「追星應援包」、「化學包」、「生態包」等，歡迎到[專業擴充包](https://docs.google.com/spreadsheets/d/1ZWKXlznegMBjy0vYsSFatWhTNq0Nt6-_t3j_UyCUm5U/edit?usp=sharing)頁面查看。
 
 若您有意提供「領域專業字集」之建議，都歡迎繼續填表回報，非常感謝您的協助！收到回覆後，團隊將再討論決議後以信件回覆您是否增收等相關後續。若您的建議收錄採納，我們將註明您為貢獻者，並整理更新。
 
