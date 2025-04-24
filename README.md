@@ -27,7 +27,7 @@ What character set should you use for font creation a Traditional Chinese font? 
 
 「字集」規範了一套字型要做多少字、有哪些字（[建議閱讀：什麼是「字集」？](https://blog.justfont.com/2023/06/charactersets/)）。目前最通行的繁中字集 Big5 為求能支援絕大多場合，收錄字數高達 13000 以上。字數雖多，其中卻包含許多罕用字，也因年代久遠，缺少如 `獴`、`蟎`、`㹴` 等現代常用字，如果依表造完往往事倍功半。
 
-A "character set" defines how many and which characters are required for a font. The most widely used Traditional Chinese character set, Big5, includes over 13,000 characters to cover a wide range of scenarios. Although it contains many characters, it also includes rare ones and lacks modern characters like 獴, 蟎, 㹴, etc. If you follow this set, you often end up with unnecessary characters and missing commonly used ones.
+A “character set” defines how many and which characters are required for a font. The most widely used Traditional Chinese character set, Big5, includes over 13,000 characters to cover a wide range of scenarios. Although it contains many characters, it also includes rare ones and lacks modern characters like 獴, 蟎, 㹴, etc. If you follow this set, you often end up with unnecessary characters and missing commonly used ones.
 
 況且，並非所有字型都是以內文排版為目標，字集選擇也應該有精簡而彈性的方案。因此我們精煉整理出約 7000 字的「基本包」，並將不同功能字集（如本土語言、命名常用字......等）整理為數百字的「擴充包」，推出 jf 7000 當務字集，並免費開源釋出提供各界使用。期待能支援有志造字的獨立設計師，讓造字漫漫長路更加順利。
 
