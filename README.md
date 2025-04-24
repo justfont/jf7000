@@ -91,6 +91,8 @@ If you would like to contribute to a specialized character set, please continue 
 
 [![https://justfont.typeform.com/to/STrVxvdD?_gl=1*137y5eg*_gcl_au*MTQwODQ1MjgyOS4xNzIxMzc1ODE3*_ga*NzY4MzcwNDk4LjE3MTI3NjE1Njc.*_ga_L3HTQBC4VD*MTcyMTcxODgxMS4yOS4xLjE3MjE3MTk1MDEuNTkuMC4w&_ga=2.101642689.1318679437.1721718812-768370498.1712761567](https://img.shields.io/badge/點我提供領域專業字集建議-F5822A?style=for-the-badge&logo=typer)](https://justfont.typeform.com/to/STrVxvdD?_gl=1*137y5eg*_gcl_au*MTQwODQ1MjgyOS4xNzIxMzc1ODE3*_ga*NzY4MzcwNDk4LjE3MTI3NjE1Njc.*_ga_L3HTQBC4VD*MTcyMTcxODgxMS4yOS4xLjE3MjE3MTk1MDEuNTkuMC4w&_ga=2.101642689.1318679437.1721718812-768370498.1712761567)
 
+⬆️ Provide your suggestions
+
 </div>
 
 # 釋出與下載
@@ -111,7 +113,11 @@ If you're not using Glyphs software, you can also access the web-based version o
 
 [![https://docs.google.com/spreadsheets/d/1yI9O2_nlEjP28McIXPJS8GO2U9yVBbnZIvlDFyCKV18/edit?usp=sharing](https://img.shields.io/badge/透過網頁試算表瀏覽-34A853?style=for-the-badge&logo=googlesheets&logoColor=f5f5f5)](https://docs.google.com/spreadsheets/d/1yI9O2_nlEjP28McIXPJS8GO2U9yVBbnZIvlDFyCKV18/edit?usp=sharing/) 
 
+⬆️ view spreadsheet
+
 [![https://github.com/justfont/jf7000/releases](https://img.shields.io/badge/下載純文字檔案-181717?style=for-the-badge&logo=github)](https://github.com/justfont/jf7000/releases)
+
+⬆️ get text files
 
 </div>
 
