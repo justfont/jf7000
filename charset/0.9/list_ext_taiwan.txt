@@ -97,8 +97,6 @@ ygrave
 ycircumflex
 ymacron
 apostrophemod
-control
-
 uni3401
 uni3441
 uni34FE
