@@ -215,13 +215,9 @@ om-bopomofo
 ong-bopomofo
 innn-bopomofo
 finalp-bopomofo
-finalp-bopomofo_dotaccent
 finalt-bopomofo
-finalt-bopomofo_dotaccent
 finalh-bopomofo
-finalh-bopomofo_dotaccent
 uni31BB
-uni31BB_dotaccent
 A.paren
 B.paren
 C.paren
